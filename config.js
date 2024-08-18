@@ -9,20 +9,20 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['212648753294', 'ESSAOUIDI', true],
+['212774459373', 'Yassine', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '212648753294',
+ pairingNumber: '212648753294',
+ nameown: 'ESSAOUIDI',
+ nomerown: '212648753294',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'Yassine',
  namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
+ wm: ''-'_꩜ ➚ ிEssaouidi ⎙ ✓ ꩜_'-'',
  stickpack: 'Whatsapp',
  stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
 }
@@ -46,9 +46,8 @@ global.media = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://instagram.com/instagram.com/essaouidi_yassine',
+ sgh:  'https://github.com/EssaouidiYassine',
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
@@ -56,7 +55,7 @@ global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
 // Info Wait
 global.msg = {
  wait: '⏱️ *Please be patient*\n\> Running command from *User*!',
- eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Bobiza Bot*. There was an error in the system while executing the command.'
+ eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Essaouidi Bot*. There was an error in the system while executing the command.'
 }
 
 global.multiplier = 69
